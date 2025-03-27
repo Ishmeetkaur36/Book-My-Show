@@ -19,4 +19,22 @@ Components:
      >> Poster Poster.Componenet.jsx 
      >> PosterSlider PosterSliderComponenet.jsx
 
-npx create-react-app . 
+- npx create-react-app . (install all)
+
+- taiwind css
+  npm install tailwindcss @tailwindcss/vite postcss autoprefixer
+
+- React slick
+  npm install react-slick
+  npm install slick-carousel
+
+- axios-https
+  npm i axios
+
+- headless.ui
+   npm install @headlessui/react 
+
+- React Icons
+   npm install react-icons   
+
+ - npm i react-router-dom 
