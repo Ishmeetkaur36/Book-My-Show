@@ -23,8 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "vite",
-    "serve": "vite preview"
+    "build:css": "tailwindcss -i ./src/input.css -o ./dist/output.css"
   },
   "eslintConfig": {
     "extends": [

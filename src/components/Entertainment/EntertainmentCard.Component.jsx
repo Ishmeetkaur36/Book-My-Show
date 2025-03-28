@@ -1,8 +1,8 @@
 import React from 'react';
 
-const EntertainmentCard = () => {
-    return <div>EntertainmentCard</div>;
+const EntertainmentCardSlider = () => {
+    return <div>EntertainmentCardSlider</div>;
     
 }
 
-export default EntertainmentCard;
+export default EntertainmentCardSlider;
